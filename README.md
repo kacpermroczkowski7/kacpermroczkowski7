@@ -1,16 +1,15 @@
-## Hi there 👋
+## IT Enthusiast | Hardware & Systems | Building real-world IT experience in public
 
-<!--
-**kacpermroczkowski7/kacpermroczkowski7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build, configure and document IT systems — turning hands-on experience into
+real skills for a career in IT infrastructure, networking and cybersecurity.
 
-Here are some ideas to get you started:
+## 🛠️ What You'll Find Here
+This GitHub contains:
+- Automation scripts (Python, coming soon)
+- IT projects and homelab documentation
+- Supporting code for mroczkowski.ch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Elsewhere
+- 🌍 Portfolio: https://mroczkowski.ch
+- 💼 LinkedIn: https://linkedin.com/in/kacper-mroczkowski-4935933b2/
+- 📧 Contact: mroczkowski.kch@gmail.com
